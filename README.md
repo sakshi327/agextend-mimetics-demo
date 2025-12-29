@@ -43,10 +43,10 @@ Outputs:
 ---
 
 ## 🔬 What This Demo Shows
-✔ Bioactivity-aware molecular featurization
-✔ Dual similarity modeling (chemical vs biological)
-✔ Residual-based prioritization of candidates
-✔ Experiment-ready ranked outputs
+✔ Bioactivity-aware molecular featurization<br>
+✔ Dual similarity modeling (chemical vs biological)<br>
+✔ Residual-based prioritization of candidates<br>
+✔ Experiment-ready ranked outputs<br>
 
 ---
 
@@ -64,9 +64,9 @@ This repository is not intended to reproduce the full AgeXtend::Mimetics framewo
 ---
 
 ## 📫 Author
-Sakshi Arora
-PhD — Computational Biology
-AI × Aging × Experimental Geroscience
+Sakshi Arora<br>
+PhD — Computational Biology<br>
+AI × Aging × Experimental Geroscience<br>
 
 ---
 
