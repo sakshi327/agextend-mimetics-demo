@@ -35,3 +35,40 @@ cd agextend-mimetics-demo
 conda env create -f environment.yml
 conda activate agextend-mimetics
 python demo.py
+```
+Outputs:
+- ```results/ranked_hits.csv``` — prioritized CRM-like candidates
+- ```figures/similarity_vs_bioactivity.png``` — chemical vs biological similarity
+  
+---
+
+## 🔬 What This Demo Shows
+✔ Bioactivity-aware molecular featurization
+✔ Dual similarity modeling (chemical vs biological)
+✔ Residual-based prioritization of candidates
+✔ Experiment-ready ranked outputs
+
+---
+
+## 📂 Repository Structure
+- ```src/``` — Core computational logic
+- ```ata/``` — Small example dataset (synthetic/illustrative)
+- ```results/``` — Ranked outputs
+- ```figures/``` — Visualization for interpretation
+
+---
+
+## 📌 Notes
+This repository is not intended to reproduce the full AgeXtend::Mimetics framework. Instead, it provides a clean, interpretable, and runnable example of how computational design decisions were made with downstream experimental validation in mind.
+
+---
+
+## 📫 Author
+Sakshi Arora
+PhD — Computational Biology
+AI × Aging × Experimental Geroscience
+
+---
+
+
+
